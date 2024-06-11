@@ -18,4 +18,5 @@ function minAbsValue($input)
     return $minValue;
 }
 
+// echo minAbsValue([10, 12, 15, 189, 22, 2, 34]);
 echo minAbsValue([10, -12, 34, 12, -3, 123]);

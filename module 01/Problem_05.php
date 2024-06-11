@@ -11,4 +11,4 @@ function sumOfNumber($number)
     return $sum;
 }
 
-echo sumOfNumber(623431);
+echo sumOfNumber(62343);
