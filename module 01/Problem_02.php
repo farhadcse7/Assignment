@@ -14,5 +14,3 @@ for ($i = 0; $i < count($words); $i++) {
 }
 
 echo "Total word count: $wordCount\n";
-
-?>
